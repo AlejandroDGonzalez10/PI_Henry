@@ -11,15 +11,6 @@
 
 <hr>  
 
-## **Descripción del problema (Contexto y rol a desarrollar)**
-
-## Contexto
-
-Tienes tu modelo de recomendación entrenado dando unas buenas métricas :smirk:, y ahora, cómo lo llevas al mundo real? :eyes:
-
-El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos (Data Engineer stuff) hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos.
-
-
 
 
 ## **Propuesta de trabajo (requerimientos de aprobación)**
