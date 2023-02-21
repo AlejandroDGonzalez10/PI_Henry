@@ -1,4 +1,3 @@
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
@@ -130,14 +129,7 @@ FAST API Documentation:
 + https://pandas.pydata.org/docs/development/contributing_docstring.html
   
 
-  
-<br/>
-
-## **Deadlines importantes**
-
-+ Apertura de formularios de entrega de proyectos: **Lunes 20, 10:00 hs gmt -3**
-
-+ Cierre de formularios de entrega de proyectos: **Martes 21, 16:00hs gmt-3**
-  
-+ Demo: **Martes 21, 16:00hs gmt-3*** 
-
+  PD: Faltaron DetaSpace.
+      y muchas cosas lamentablemente mi equipo dificultp muchisimo el procesamiento y transformacion de datos, junto con la pruebas de las plataformas. 
+      tambien por falta de conocimiento no pude subir el archivo df_prc.parquet donde estan los 8 csv de score.
+      desde ya muchas Gracias.!
