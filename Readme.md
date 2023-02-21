@@ -79,9 +79,6 @@ NOTA: Recuerde entregar el link de acceso al video. Puede alojarse en YouTube, D
 <br/>
 
 
-"Prolijidad" del codigo:
-
-+ https://pandas.pydata.org/docs/development/contributing_docstring.html
   
 
   PD: Faltaron DetaSpace.
