@@ -78,30 +78,6 @@ NOTA: Recuerde entregar el link de acceso al video. Puede alojarse en YouTube, D
 
 <br/>
 
-## **Fuente de datos**
-
-+ [Dataset](https://drive.google.com/drive/folders/1b49OVFJpjPPA1noRBBi1hSmMThXmNzxn): La carpeta 'ratings' tiene varios archivos con las reseñas de los usuarios, la carpeta raíz tiene un dataset por proveedor de servicios de streaming.
-<br/>
-
-## **Material de apoyo**
-
-Imagen Docker con Uvicorn/Guinicorn para aplicaciones web de alta performance:
-
-+ https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-fastapi/ 
-
-+ https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker
-
-FAST API Documentation:
-
-+ https://fastapi.tiangolo.com/tutorial/
-  
- Gradio:
-  
-+ https://gradio.app/
-  
- Sistemas de Recomendación:
-  
-+ https://github.com/juliom86/awesome-RecSys
 
 "Prolijidad" del codigo:
 
